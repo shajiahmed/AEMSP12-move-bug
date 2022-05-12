@@ -1,0 +1,1 @@
+# AEMSP12-move-bug
